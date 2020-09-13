@@ -1,2 +1,2 @@
 # Algorithm-Cases
-Kumpulan algoritma-algoritma yang asik dan menantang
+Collection of algorithm cases
