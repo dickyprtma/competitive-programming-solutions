@@ -4,7 +4,6 @@
 
 // Note
 // Reverse Input Algorithm
-// BASIC PROGRAMMING
 
 int main() {
 
