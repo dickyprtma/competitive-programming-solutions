@@ -1,0 +1,9 @@
+parameter untuk pass by value dan pass by reference beda
+
+untuk fungsi yang mengambil nilai dari value :
+fungsi(int x);
+	
+untuk fungsi yang mengambil nilai dari reference(suatu variabel) :
+fungsi(int &x)
+	
+jangan masukin \n kedalam scope if, kalo \n didalam scope tertentu, skor test result akan berkurang
